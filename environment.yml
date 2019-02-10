@@ -6,4 +6,4 @@ dependencies:
   - pandas
   - root
   - pip:
-    - alphatwirl
+    - alphatwirl>=0.21.1
